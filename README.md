@@ -5,9 +5,7 @@ Create a Python script to automate data extraction from Wikipedia pages. The scr
 
 2) Write a function to Extract article title
 
-3) Write a function to Extract article text for each paragraph with their respective
-
-headings. Map those headings to their respective paragraphs in the dictionary.
+3) Write a function to Extract article text for each paragraph with their respective headings. Map those headings to their respective paragraphs in the dictionary.
 
 4) Write a function to collect every link that redirects to another Wikipedia page
 
